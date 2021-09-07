@@ -14,7 +14,7 @@ This document outlines best practices and instructions for file sharing and vers
  ## Useful Links
  
  - [Git Download](https://git-scm.com/downloads)
- - [Git/GitHub CheatSheet](https://training.github.com/downloads/github-git-cheat-sheet/)
+ - [Git/GitHub Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
  - [Git Documentation](https://git-scm.com/docs)
  - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
