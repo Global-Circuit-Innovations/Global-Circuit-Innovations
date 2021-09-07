@@ -6,7 +6,7 @@ This document outlines best practices and instructions for file sharing and vers
 
  - In general, create private repositories and adjust permissions accordingly
  - Create a README.txt AND a REAMDE.md file for EVERY repository
- - When collaborating on a project don't push straight to the main branch, instead all commits should be pushed via <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">pull requests</a>
+ - When collaborating on a project don't push straight to the main branch, instead all commits should be pushed via <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request" target="_blank">pull requests</a>
  - If a file contains sensitive data it should be placed in the [.gitignore file](https://git-scm.com/docs/gitignore)
  - If for whatever reason a project/repo is no longer maintained but you want members to still see the contents you should [archive it](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/archiving-a-github-repository)
  - When cloning or initializing a repo, GitHub now uses [personal access tokens](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) in place of password verification
